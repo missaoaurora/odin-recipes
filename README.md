@@ -1,5 +1,3 @@
 # odin-recipes
 
-A simple website for amazing Brazilian Recipes
-
-# teste um dois tres
+A simple website to show to this brutal horde of Vikings the amazing brazilian couisine.
